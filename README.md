@@ -15,17 +15,23 @@ The **Personal Portfolio** project is created according to the assignment from *
 
 ## **Getting Started**
 
+HTTPS 
+```bash
+git clone https://github.com/minhhoccode111/personal-portfolio.git
 ```
-HTTPS - git clone https://github.com/minhhoccode111/personal-portfolio.git
 
-SSH - git clone git@github.com:minhhoccode111/personal-portfolio.git
+or SSH 
+```bash
+git clone git@github.com:minhhoccode111/personal-portfolio.git
+```
 
+then
+```bash
 cd personal-portfolio
-
 npm install
-
 npm start
 ```
+
 
 ## **Idea(s) to implement**
 
